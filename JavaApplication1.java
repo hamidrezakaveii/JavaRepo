@@ -15,8 +15,13 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        int count = 10;
+        System.out.println("hello world!");
+        int x = 5;
+        if (x > 4){
+            System.out.println("x grather than 4");
+        //comment edition for test
+        }
+
     }
     
 }
