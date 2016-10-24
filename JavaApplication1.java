@@ -15,7 +15,7 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hello Vanier!");
+        System.out.println("hello web programming!");
         int x = 5;
         if (x > 4){
             System.out.println("x grather than 4");
