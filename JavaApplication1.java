@@ -20,6 +20,9 @@ public class JavaApplication1 {
         if (x > 4){
             System.out.println("x grather than 4");
         //comment edition for test
+		// 1- ask user for his age
+		// 2- Calculate the number of months
+		// 3- Output user age in months
         }
 
     }
